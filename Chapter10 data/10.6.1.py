@@ -1,5 +1,3 @@
-# Section 10.6.1 snippets
-
 # Creating, Shuffling and Dealing the Cards 
 from deck import DeckOfCards
 
