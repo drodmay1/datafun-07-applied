@@ -85,4 +85,26 @@ import scipy
 - Section 6 - Predict
 - Section 7 - Visualizations
 
+### CC 7.7: Predict Avg High Temp in NYC in January (Part 3)
+- Section 1 - Build the Model
+- Section 2 - Test the Model
+- Section 3 - Predict 
+- Section 4 - Visualizations
+
+### CC 7.8: Insights (Part 4)
+- Publish Insights
+
+### Optional Bonus - California Housing Dataset
+- Loading the data
+- Training and testing the data
+- Visualizing the data
+- Choosing the best model from the 4 listed. 
+
+## References
+- https://openai.com
+
+- Guided projects 10.16, 15.4 and 15.5 from textbook: https://deitel.com/intro-to-python-for-computer-science-and-data-science
+
+
+
 
